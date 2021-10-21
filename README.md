@@ -1,7 +1,9 @@
-### ApartmentsLille
+### ApartmentsLille Rental Vacation Home
+---
+
 Wordpress website for a rental vacation-home business
 
-Website:
+#### Website:
 - https://apartmentslille.com/
 
 Preview 1                  |  Preview 2                |
